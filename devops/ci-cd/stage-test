@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+filepath=${2:-CV.md}
+min_alert_level=${1:-error}
+
+
+vale --config .vale.ini \
+	--no-wrap \
+	--minAlertLevel=$min_alert_level \
+	"${filepath}" 2>&1
