@@ -1,0 +1,74 @@
+site_name: CV of Levent Rasmus Ogut
+site_url: https://leventogut.github.com/
+repo_url: https://github.com/leventogut/CV
+repo_name: leventogut/CV
+edit_uri: edit/main/CV/
+theme:
+  name: material
+  logo: ""
+  favicon: ""
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+    - header.autohide
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.annotate
+  custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: light blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+plugins:
+  - search:
+      lang:
+        - en
+  - git-revision-date
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - tags:
+      tags_file: "tags.md"
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/leventogut/CV
+markdown_extensions:
+  - attr_list
+  - abbr
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets:
+      auto_append:
+        - "includes/abbreviations.md"
+      check_paths: True
+  - pymdownx.highlight:
+      anchor_linenums: True
+  - pymdownx.inlinehilite
+  - pymdownx.tasklist:
+      custom_checkbox: True
+  - pymdownx.tabbed:
+      alternate_style: True
+  - pymdownx.keys
+  - meta
+  - toc:
+      permalink: "#"
+  - pymdownx.critic
+  - pymdownx.smartsymbols
