@@ -46,6 +46,11 @@ jobs:
       - name: Build
         run: |
           devops/ci-cd/stage-build
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: public
+          path: public
 
   deploy:
     runs-on: ubuntu-latest
