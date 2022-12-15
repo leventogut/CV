@@ -1,8 +1,8 @@
-site_name: CV of Levent Rasmus Ogut
+site_name: "Curriculum Vitae"
 site_url: https://leventogut.github.com/
 repo_url: https://github.com/leventogut/CV
 repo_name: leventogut/CV
-edit_uri: edit/main/CV/
+edit_uri: edit/main/CV.md
 theme:
   name: material
   logo: ""
@@ -15,27 +15,28 @@ theme:
     - navigation.top
     - toc.follow
     - header.autohide
-    - search.suggest
-    - search.highlight
-    - search.share
+    # - search.suggest
+    # - search.highlight
+    # - search.share
     - content.code.annotate
   custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: deep orange
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+    # - media: "(prefers-color-scheme: light)"
+    #   scheme: default
+    #   primary: deep orange
+    #   toggle:
+    #     icon: material/toggle-switch
+    #     name: Switch to light mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: light blue
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
+      primary: blue gray
+      # toggle:
+      #   icon: material/toggle-switch-off-outline
+      #   name: Switch to dark mode
+  font:
+    text: Menlo
 plugins:
   - search:
       lang:
@@ -43,22 +44,20 @@ plugins:
   - git-revision-date
   - git-revision-date-localized:
       enable_creation_date: true
-  - tags:
-      tags_file: "tags.md"
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/leventogut/CV
 markdown_extensions:
   - attr_list
-  - abbr
+  # - abbr
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.snippets:
-      auto_append:
-        - "includes/abbreviations.md"
-      check_paths: True
+  # - pymdownx.snippets:
+  #     auto_append:
+  #       - "includes/abbreviations.md"
+  #     check_paths: True
   - pymdownx.highlight:
       anchor_linenums: True
   - pymdownx.inlinehilite
@@ -69,6 +68,11 @@ markdown_extensions:
   - pymdownx.keys
   - meta
   - toc:
-      permalink: "#"
+      # permalink: "#"
+      baselevel: 3
+      toc_depth: 5
   - pymdownx.critic
   - pymdownx.smartsymbols
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
