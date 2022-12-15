@@ -2,7 +2,7 @@ site_name: "Curriculum Vitae"
 site_url: https://leventogut.github.com/
 repo_url: https://github.com/leventogut/CV
 repo_name: leventogut/CV
-edit_uri: edit/main/CV.md
+edit_uri: "" # edit/main/CV.md
 theme:
   name: material
   logo: ""
@@ -14,6 +14,7 @@ theme:
     - navigation.expand
     - navigation.top
     - toc.follow
+    - toc.integrate
     - header.autohide
     # - search.suggest
     # - search.highlight
@@ -23,18 +24,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
   palette:
-    # - media: "(prefers-color-scheme: light)"
-    #   scheme: default
-    #   primary: deep orange
-    #   toggle:
-    #     icon: material/toggle-switch
-    #     name: Switch to light mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: blue gray
-      # toggle:
-      #   icon: material/toggle-switch-off-outline
-      #   name: Switch to dark mode
+    scheme: slate
+    primary: blue grey
   font:
     text: Menlo
 plugins:

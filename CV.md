@@ -4,7 +4,7 @@ author: Levent Rasmus Ogut
 published: false
 Last updated: 2022-12-16
 contact: levent@ogut.me
-source: https://github.com/leventogut/CV/
+source: https://Github.com/leventogut/CV/
 ---
 
 #### Profile
@@ -19,7 +19,7 @@ I enjoy coding and creating solutions that make improve processes.
 
 I'm pasionate about:
 
-- Open-source
+- Open source
 - Knowledge sharing
 - Documentation
 - Automation
@@ -30,7 +30,7 @@ I'm pasionate about:
 
 
 [:fontawesome-brands-linkedin:{ .linkedin }](https://www.linkedin.com/in/leventogut) | [:simple-upwork:{ .upwork }](https://www.upwork.com/freelancers/leventogut)
- | [:fontawesome-brands-medium:{ .medium }](https://leventogut.medium.com) | [:fontawesome-brands-github:{ .github }](https://github.com/leventogut) | [:fontawesome-brands-gitlab:{ .gitlab }](https://gitlab.com/leventogut) | [:fontawesome-brands-bitbucket:{ .bitbucket }](https://bitbucket.org/leventogut) | [:fontawesome-solid-blog:](https://blog.clouds.engineer) | [:material-file-document-multiple:](https://docs.clouds.engineer)
+ | [:fontawesome-brands-medium:{ .medium }](https://leventogut.medium.com) | [:fontawesome-brands-Github:{ .Github }](https://Github.com/leventogut) | [:fontawesome-brands-Gitlab:{ .Gitlab }](https://Gitlab.com/leventogut) | [:fontawesome-brands-bitbucket:{ .bitbucket }](https://bitbucket.org/leventogut) | [:fontawesome-solid-blog:](https://blog.clouds.engineer) | [:material-file-document-multiple:](https://docs.clouds.engineer)
 
 
 #### Knowledge & experience level on technologies matrix
@@ -44,11 +44,11 @@ Level definitions for measuring knowledge & experience level on technologies
 </summary>
 
 <ul>
-<li>Level 1 - High level knowledge on the topic no exposure.</li>
-<li>Level 2 - Limited knowledge and exposure in lab or non-critical production environment.</li>
-<li>Level 3 - Design and implementation knowledge and exposure to at least two projects on production environments .</li>
-<li>Level 4 - Deeper understanding and exposure to a few projects.</li>
-<li>Level 5 - Expert level knowledge and exposure to many projects with different requirements.</li>
+<li>Level 1: High level knowledge on the topic no exposure.</li>
+<li>Level 2: Limited knowledge and exposure in lab or non-critical production environment.</li>
+<li>Level 3: Design and implementation knowledge and exposure to at least two projects on production environments .</li>
+<li>Level 4: Deeper understanding and exposure to a few projects.</li>
+<li>Level 5: Expert level knowledge and exposure to many projects with different requirements.</li>
 </ul>
 
 </details>
@@ -64,7 +64,7 @@ Knowledge & experience
 <ul>
 <li>Soft skills: Collaboration and knowledge transfer (5), Willingness to help(5), Interpersonal skills (4), Communication skills (5), Technical writing(4), Time Management(4), Creative Thinking(4), Problem Solving(4)</li>
 <li>Container orchestration: Nomad(2). Kubernetes(4), Open Shift(2)</li>
-<li>Cloud service providers: GCP(3), AWS, (3), Azure(2), OVH(2), Linode(2), Digital Ocean(2)</li>
+<li>Cloud service providers: GCP(3), AWS, (3), Azure(2), OVH(2), Linode(2), DiGital Ocean(2)</li>
 <li>Coding skills: Agile methods(3), Git(3), Go(3), Python(4), Bash/Shell(4), Groovy(2), PHP(4), Perl(2)</li>
 <li>Infrastructure-as-Code and tooling: Architecture(4), Terraform(3), Pulumi(2)</li>
 <li>Configuration management: Ansible (4)</li>
@@ -76,7 +76,7 @@ Knowledge & experience
 
 #### Open source projects
 
-A selection from the open-source projects I have initiated and developing. Some of them are not published yet.
+A selection from the Open source projects I have initiated and developing. Some of them aren't published yet.
 
 <details open>
 
@@ -97,7 +97,7 @@ Click to toggle
 
 #### Blog posts
 
-I also wear a Technical Writer or Content Creator hat on occasion. I have written blog posts about Kubernetes and its ecosystem, Linux, web-servers and so on.  
+I also wear a Technical Writer or Content Creator hat on occasion. I have written blog posts about Kubernetes and its ecosystem, Linux, web-servers and other topics.  
 
 <details open>
 
@@ -130,7 +130,7 @@ Click to toggle
 
 #### Work experience
 
-##### Cloud Native DevOps Engineer & Technical Writer, Freelance; — 2014-present
+##### Cloud Native DevOps Engineer & Technical Writer, Freelance; 2014&mdash;present
 
 - Designing, implementing, operating, and maintaining small to medium sized cloud or on-premise infrastructures
 - Design and deploy monitoring systems (including cost monitoring)
@@ -152,7 +152,7 @@ Click to toggle
 
 <ul>
 <li>
-    <span>Provider agnostic greenfield Kubernetes cluster (K3s) setup @ AWS — 2022</span>
+    <span>Provider agnostic greenfield Kubernetes cluster (K3s) setup @ AWS; 2022</span>
     <ul>
         <li>Terraform for setting-up infrastructure VPC, EC2 Instances, SG, S3</li>
         <li>Helm packaging</li>
@@ -162,7 +162,7 @@ Click to toggle
     </ul>
 </li>
 <li>
-    <span>Greenfield Kubernetes cluster (GKE) setup @ Google Cloud — 2018</span>
+    <span>Greenfield Kubernetes cluster (GKE) setup @ Google Cloud; 2018</span>
     <ul>
         <li>Continuous Deployment from BitBucket to Kubernetes clusters (GKE) (prod and staging)</li>
         <li>Horizontal Pod Scaling, Vertical Pod Scaling, Cluster Auto Scale.</li>
@@ -174,7 +174,7 @@ Click to toggle
 <li>Architecting and developing microservices</li>
 <li>Containerization and container orchestration</li>
 <li>Linux Administration (Ubuntu, CentOS, Amazon Linux)</li>
-<li>Transformation from static HTML w/JavaScript on EC2 Instance to AWS ECS Containerized auto-deploy</li>
+<li>Transformation from static HTML w/JavaScript on EC2 Instance to AWS ECS Containerized auto deploy</li>
 </ul>
 
 </details>
@@ -198,7 +198,7 @@ Click to toggle
 </details>
 
 
-##### Developer Relations, Loft.sh, Contract; Istanbul — 2021-2022
+##### Developer Relations, Loft.sh; Contract; 2021&mdash;2022,Istanbul
 
 ###### Projects &  Responsibilities
 
@@ -219,7 +219,7 @@ Click to toggle
 
 ###### Technologies
 
-##### DevOps Engineer, Sendloop Inc. Contract; — 2014-2018, Istanbul
+##### DevOps Engineer, Sendloop Inc.; Contract; 2014&mdash;2018, Istanbul
 
 ###### Projects &  Responsibilities
 
@@ -232,14 +232,14 @@ Click to toggle
 </summary>
 
 <ul>
-<li>Development of backend APIs and worker processes (Go and Python)</li>
+<li>Development of APIs and worker processes (Go and Python)</li>
 <li>Bug fixes and development on the main application</li>
 <li>Developing an authorization system (oauth2) for the new App Store project</li>
-<li>Design and implementation of git push triggered build, test, and deployment flow using Jenkins and Ansible in conjunction with self-written Fabric (Python) scripts.</li>
+<li>Design and implementation of Git push triggered build, test, and deployment flow using Jenkins and Ansible in conjunction with self-written Fabric (Python) scripts.</li>
 <li>Instrumental in designing production microservices infrastructure.</li>
 <li>Design and implement production docker cluster using Consul, and Nomad for multiple redundant sites.</li>
 <li>Several Python daemons for message processing from RabbitMQ</li>
-<li>Design and implementation of git push triggered build, test, and deployment flow using Jenkins and Ansible in conjunction with self-written Fabric (Python) scripts.</li>
+<li>Design and implementation of Git push triggered build, test, and deployment flow using Jenkins and Ansible in conjunction with self-written Fabric (Python) scripts.</li>
 </ul>
 
 </details>
@@ -270,7 +270,7 @@ Technologies
 
 </details>
 
-##### Professional Services Consultant, Juniper Networks — 2011-2014, London
+##### Professional Services Consultant, Juniper Networks; Employed; 2011&mdash;2014, London
 
 ###### Projects &  Responsibilities
 
@@ -309,7 +309,7 @@ Technologies
 
 </details>
 
-##### Juniper Network Engineer, Nokia Siemens Networks (Contract) — 2009-2011, London
+##### Juniper Network Engineer, Nokia Siemens Networks; Contract; 2009&mdash;2011, London
 
 <details closed>
 
@@ -368,9 +368,9 @@ Click to toggle
 
 </details>
 
-### Juniper Network Engineer, Telstra International (Contract) — 2008-2009, London
+##### Juniper Network Engineer, Telstra International; Contract; 2008&mdash;2009, London
 
-#### Projects &  Responsibilities
+###### Projects &  Responsibilities
 
 <details closed>
 
@@ -383,13 +383,13 @@ Click to toggle
 <ul>
 <li>Supporting Juniper M320-based IP/MPLS core network supporting business and consumer services including but not limited to MPLS VPN, Hosting, VoIP, Internet Access, and L2VPN services.</li>
 <li>Providing Juniper Networks product, operational knowledge, and experience to the operations team.</li>
-<li>Reviewing high and low-level designs for new services and service handovers from an operational point of view. (Inter-AS MPLS VPN NNI, QoS amendments, etc.)</li>
+<li>Reviewing high and low-level designs for new services and service handovers from an operational point of view. (Inter-AS MPLS VPN NNI, QoS amendments and similar work)</li>
 <li>Improving Network Operations and Management strategy, design, and systems.</li>
 </ul>
 
 </details>
 
-##### Network Design Consultant, UPC (NAKA: Liberty Media) (Contract) — 2008-2009, Bucharest
+##### Network Design Consultant, UPC (NAKA: Liberty Media); Contract; 2008&mdash;2009, Bucharest
 
 ###### Projects &  Responsibilities
 
@@ -410,7 +410,7 @@ Click to toggle
 
 </details>
 
-##### Network Design Consultant, Cable & Wireless (Contract) — 2007-2008, Leeds
+##### Network Design Consultant, Cable & Wireless; Contract; 2007&mdash;2008, Leeds
 
 ###### Projects &  Responsibilities
 
@@ -423,8 +423,8 @@ Click to toggle
 </summary>
 
 <ul>
-<li>Designing (HLD&LLD) international-wide network consolidation for reducing the OPEX and simplifying the network. Network, consists of Juniper Networks products such as MX960, M160, M40e, M40, M20 and M10, Cisco products, Extreme Networks products. This design activity includes IS-IS and BGP structure changes, resiliency analysis, growth analysis and migrations.</li>
-<li>Designing channelized STM1 solution for low speed customer connectivity aggregation for reducing OPEX and ease provisioning.</li>
+<li>Designing (HLD&LLD) international-wide network consolidation for reducing the OpEx and simplifying the network. Network, consists of Juniper Networks products such as MX960, M160, M40e, M40, M20 and M10, Cisco products, Extreme Networks products. This design activity includes IS-IS and BGP structure changes, resiliency analysis, growth analysis and migrations.</li>
+<li>Designing channelized STM1 solution for low speed customer connectivity aggregation for reducing OpEx and ease provisioning.</li>
 <li>Existing feature regression testing on JUNOS software using Agilent N2X testers with MX960, M160, M40 and M20 hardware platforms. This activity consisting test plan writing, test execution and documenting results.</li>
 <li>New feature regression testing on JUNOS software using Juniper MX960 platform. This activity consisting test plan writing, test execution and documenting results and recommendations for deployment and future designs.</li>
 <li>Consulting for IGP migrations for one of the service platforms.</li>
@@ -439,7 +439,7 @@ Click to toggle
 </details>
 
 
-##### ISP integration architect, Phorm INC (Contract) — 2007-2007, London
+##### ISP integration architect, Phorm INC.; Contract; 2007&mdash;2007, London
 
 <details>
 
@@ -459,7 +459,7 @@ Click to toggle
 
 </details>
 
-##### IP Network Development Engineer, BSKYB Ltd INC — 2005-2006, London
+##### IP Network Development Engineer, BSKYB Ltd INC; Employment; 2005&mdash;2006, London
 
 ###### Projects &  Responsibilities
 
@@ -482,12 +482,12 @@ Click to toggle
 
 <li>Delivery of wholesale LLU services infrastructure using complex MPLS VPN.</li>
 
-<li>Lead engineer and/or consulting on many projects including; new pop deployments , re-designing pop structures, capacity & service additions, migrations, large customer deployments, infrastructure security enhancements, vendor selections, equipment and infrastructure testing, creating documentation structures to standardise deployments, design of bandwidth control on L2TP based consumer DSL services using QoS on Cisco 10000 platform.</li>
+<li>Lead engineer and consulting on many projects including; new pop deployments , re-designing pop structures, capacity & service additions, migrations, large customer deployments, infrastructure security enhancements, vendor selections, equipment and infrastructure testing, creating documentation structures to standardise deployments, design of bandwidth control on L2TP based consumer DSL services using QoS on Cisco 10000 platform.</li>
 </ul>
 
 </details>
 
-##### Senior Network Engineer & Team Leader, Doruk.net — 2003-2004, Istanbul
+##### Senior Network Engineer & Team Leader, Doruk.net; Employment; 2003&mdash;2004, Istanbul
 
 ###### Projects &  Responsibilities
 
@@ -501,20 +501,20 @@ Click to toggle
 
 <ul>
 <li>Design and implementation of IGP protocol migration in a non-service affecting manner.</li>
-<li>Design and implementation of backbone migration from Cisco to Juniper platforms using M5 and M7i.</li>
+<li>Design and implementation of core migration from Cisco to Juniper platforms using M5 and M7i.</li>
 <li>Re-engineering BGP structure to improve availability and manageability.</li>
 <li>Several products & services design</li>
 <li>Design and Implementation of market leading managed/unmanaged MPLS based L3 VPN services including Central Services VPNs.</li>
 <li>Design and deployment of L2 Circuit/VPNs using Martini on Juniper and Cisco platforms.</li>
 <li>Re-design and implementation of wholesale remote access services using AS5300 and Nortel CVX.</li>
-<li>Design and delivery of Frame Relay - ATM interworking (FRF.8) using Nortel Passport, to minimize CAPEX and OPEX.</li>
-<li>Design of network security policies, including secure data centre infrastructure.</li>
+<li>Design and delivery of Frame Relay - ATM interworking (FRF.8) using Nortel Passport, to minimize CAPEX and OpEx.</li>
+<li>Design of network security policies, including secure data center infrastructure.</li>
 <li>Deployment of VoIP services using AS5300</li>
 </ul>
 
 </details>
 
-##### Senior Network Engineer, Oytel NET — 2002-2003, Istanbul
+##### Senior Network Engineer, Oytel NET; Employment; 2002&mdash;2003, Istanbul
 
 ###### Projects &  Responsibilities
 
@@ -533,7 +533,7 @@ Click to toggle
 
 </details>
 
-##### Network Engineer, Bimel LTD — 2001-2002, Istanbul
+##### Network Engineer, Bimel LTD; Employment; 2001&mdash;2002, Istanbul
 
 ###### Projects &  Responsibilities
 
@@ -552,7 +552,7 @@ Click to toggle
 
 </details>
 
-##### Developer, Octeth Inc — 2000-2001, Istanbul
+##### Developer, Octeth Inc; Employment; 2000&mdash;2001, Istanbul
 
 <details>
 
@@ -568,7 +568,7 @@ Click to toggle
 
 </details>
 
-##### IT Support, Iletisim Yayincilik — 1998-2000, Istanbul
+##### IT Support, Iletisim Yayincilik; Employment; 1998&mdash;2000, Istanbul
 
 <details>
 
@@ -586,11 +586,11 @@ Click to toggle
 
 #### Education
 
-##### Newport University, Computer Science — 2004, Istanbul
+##### Newport University, Computer Science; 2004, Istanbul
 
-##### Yildiz University - Physics, - 2000, Istanbul
+##### Yildiz University, Physics; 2000, Istanbul
 
-##### Isik High School, - 1997, Istanbul
+##### Isik High School; 1997, Istanbul
 
 
 
