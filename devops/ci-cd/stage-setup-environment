@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
-if ! command -v brew --version;then
-	echo "Couldn't find vale executable, trying to install"
-	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-fi 
+# if ! command -v brew --version;then
+# 	echo "Couldn't find vale executable, trying to install"
+# 	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+# fi 
 
 # Install Vale
 # ref: https://github.com/errata-ai/vale/
 # ref: https://vale.sh/docs/vale-cli/
 
-brew install vale
+# brew install vale

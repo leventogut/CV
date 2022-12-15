@@ -34,9 +34,12 @@ jobs:
       - name: Setup
         run: |
           devops/ci-cd/stage-setup-environment
-      - name: Test
-        run: |
-          devops/ci-cd/stage-test
+      - uses: errata-ai/vale-action@reviewdog
+        with:
+          files: CV.md
+          fail_on_error: false
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - name: Install
         run: |
           devops/ci-cd/stage-install
