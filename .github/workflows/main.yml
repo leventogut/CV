@@ -49,8 +49,8 @@ jobs:
       - name: Upload artifacts
         uses: actions/upload-artifact@v3
         with:
-          name: public
-          path: public
+          name: site
+          path: site
 
   deploy:
     runs-on: ubuntu-latest
@@ -60,5 +60,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1.2.3
         with:
-          artifact_name: public
+          artifact_name: site
           token: ${{secrets.GITHUB_TOKEN}}

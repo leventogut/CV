@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -euo pipefail
 
 filepath=${2:-CV.md}
 min_alert_level=${1:-error}
