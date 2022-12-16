@@ -16,9 +16,9 @@ theme:
     - toc.follow
     - toc.integrate
     - header.autohide
-    # - search.suggest
-    # - search.highlight
-    # - search.share
+    - search.suggest
+    - search.highlight
+    - search.share
     - content.code.annotate
   custom_dir: overrides
   icon:
@@ -29,10 +29,10 @@ theme:
   font:
     text: Menlo
 plugins:
-  # - search:
-  #     lang:
-  #       - en
-  # - git-revision-date
+  - search:
+      lang:
+        - en
+  - git-revision-date
   # - git-revision-date-localized:
   #     enable_creation_date: true
 extra:
