@@ -30,7 +30,7 @@ I'm pasionate about:
 
 
 [:fontawesome-brands-linkedin:{ .linkedin }](https://www.linkedin.com/in/leventogut) | [:simple-upwork:{ .upwork }](https://www.upwork.com/freelancers/leventogut)
- | [:fontawesome-brands-medium:{ .medium }](https://leventogut.medium.com) | [:fontawesome-brands-Github:{ .Github }](https://Github.com/leventogut) | [:fontawesome-brands-Gitlab:{ .Gitlab }](https://Gitlab.com/leventogut) | [:fontawesome-brands-bitbucket:{ .bitbucket }](https://bitbucket.org/leventogut) | [:fontawesome-solid-blog:](https://blog.clouds.engineer) | [:material-file-document-multiple:](https://docs.clouds.engineer)
+ | [:fontawesome-brands-medium:{ .medium }](https://leventogut.medium.com) | [:fontawesome-brands-github:{ .github }](https://Github.com/leventogut) | [:fontawesome-brands-gitlab:{ .gitlab }](https://Gitlab.com/leventogut) | [:fontawesome-brands-bitbucket:{ .bitbucket }](https://bitbucket.org/leventogut) | [:fontawesome-solid-blog:](https://blog.clouds.engineer) | [:material-file-document-multiple:](https://docs.clouds.engineer)
 
 
 #### Knowledge & experience level on technologies matrix

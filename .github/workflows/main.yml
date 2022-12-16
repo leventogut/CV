@@ -34,12 +34,12 @@ jobs:
       - name: Setup
         run: |
           devops/ci-cd/stage-setup-environment
-      - uses: errata-ai/vale-action@reviewdog
-        with:
-          files: CV.md
-          fail_on_error: false
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      # - uses: errata-ai/vale-action@reviewdog
+        # with:
+        #   files: CV.md
+        #   fail_on_error: false
+        # env:
+        #   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - name: Install
         run: |
           devops/ci-cd/stage-install
@@ -51,6 +51,14 @@ jobs:
         with:
           name: public
           path: public/**
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1.2.3
+        with:
+          artifact_name: public
+          token: ${{secrets.GITHUB_TOKEN}}
